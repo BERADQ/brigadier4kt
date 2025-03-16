@@ -1,3 +1,11 @@
+THERE IS NO LICENSE.
+
+You can use this code however you like.
+
+Copy and paste to your project to use.
+
+Requires [Brigadier](https://github.com/Mojang/brigadier) ^1.0.0
+
 ```kotlin
 class Example {
     class CommandSourceStack
