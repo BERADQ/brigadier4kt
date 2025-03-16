@@ -2,7 +2,7 @@ THERE IS NO LICENSE.
 
 You can use this code however you like.
 
-Copy and paste to your project to use.
+Simply copy and paste into your project to use it.
 
 Requires [Brigadier](https://github.com/Mojang/brigadier) ^1.0.0
 
